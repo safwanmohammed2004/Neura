@@ -14,16 +14,16 @@ import string
 import wikipedia
 
 # Set your OpenAI API key
-openai.api_key = "sk-proj-ZvmYjYLaXF5ApuOpMJF9yFGLOU7nSsnBuxawVDgfKNO2q9zTXOTU8LFI0hOcLT3BlbkFJZLb7f7DaX4Ny58vBU7lfspDpX09ySlym7oeX12GWxfHewv6ogPd1tR0Lfoqzu4fYyTy9ckpZwA"
+openai.api_key = ""
 
 # YouTube API key
-youtube_api_key = "AIzaSyBuF6zpC3HNf6H9CeV8L5k0k7VqaGqF1w"
+youtube_api_key = ""
 
 # Fast2SMS API key
-fast2sms_api_key = "Rd5xaidngNSNShsdG81Rbg7mST3f3oK72qG0W045iKr4sgqm4EHE6gsmF"
+fast2sms_api_key = ""
 
 # Emergency contacts
-emergency_contacts = ['7569492']  # Replace with your loved ones' phone numbers
+emergency_contacts = ['']  # Replace with your loved ones' phone numbers
 
 esp32_url = "https://192.168.48.222/distance"
 
